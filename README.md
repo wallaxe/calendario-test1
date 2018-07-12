@@ -1,3 +1,3 @@
 # Calendario con JS
 
-Calendario para testear Git
+Calendario para testear Git.
